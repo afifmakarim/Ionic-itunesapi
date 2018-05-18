@@ -5,5 +5,4 @@ ionic framework + itunes API
 
 1. npm install
 2. cordova platform add android
-3. ionic cordova build android
-4. ionic cordova emulate android
+3. ionic cordova emulate android
